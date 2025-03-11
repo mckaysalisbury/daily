@@ -4791,10 +4791,10 @@
         {
             "id": "3cfcab92-0fbe-4fba-9e04-07848fc993ad",
             "name": "Cat Lover",
-            "keywords": ["collectible minifgures", "cat", "yarn", "sweater", "ugly sweater"],
+            "keywords": ["collectible minifgures", "cat", "yarn", "sweater", "ugly sweater", "kitten"],
             "item": "col459",
             "set": 71048,
-            "dates": []
+            "dates": ["2025-03-11"]
         },
         {
             "id": "83045c9c-1aa6-4f20-9add-b5eea3e82161",
