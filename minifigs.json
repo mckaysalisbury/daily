@@ -4783,10 +4783,10 @@
         {
             "id": "f1ba1443-ba69-4783-ad5f-d82faf8776d7",
             "name": "Plush Toy Collector",
-            "keywords": ["collectible minifgures", "hoodie", "rabbit", "plush", "purple", "green", "pink"],
+            "keywords": ["collectible minifgures", "hoodie", "rabbit", "plush", "purple", "green", "pink", "squishmallow"],
             "item": "col453",
             "set": 71048,
-            "dates": []
+            "dates": ["2025-03-14"]
         },
         {
             "id": "3cfcab92-0fbe-4fba-9e04-07848fc993ad",
