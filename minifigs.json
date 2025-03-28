@@ -74,7 +74,7 @@
             "keywords": ["comics", "Marvel", "Hydra", "henchman", "Bob"],
             "item": "sh0108",
             "set": 76017,
-            "dates": ["2022-09-29", "2025-03-26"]
+            "dates": ["2022-09-29"]
         },
         {
             "id": "71f087b8-ad6e-4bbb-a793-7d42319f900f",
@@ -171,7 +171,7 @@
             "keywords": ["comics", "Marvel", "Baron Von Strucker", "Strucker", "monacle", "Hydra"],
             "item": "sh0179",
             "set": 76041,
-            "dates": ["2022-10-04"]
+            "dates": ["2022-10-04", "2025-03-27"]
         },
         {
             "id": "7c54bc1c-d40f-414c-985e-ef03a5deb476",
@@ -179,7 +179,7 @@
             "keywords": ["comics", "Marvel", "Hydra", "henchman", "goggles"],
             "item": "sh0171",
             "set": 76041,
-            "dates": ["2022-10-05"]
+            "dates": ["2022-10-05", "2025-03-26"]
         },
         {
             "id": "c0af7df2-abe1-4282-84e0-c443c72d9578",
@@ -1664,7 +1664,7 @@
             "item": "sh0167",
             "set": 76032,
             "notes": "This exact minifig I have from both 76031 and 76032",
-            "dates": ["2021-12-13"]
+            "dates": ["2021-12-13", "2025-03-28"]
         },
         {
             "id": "928b3944-1f23-4239-8419-bfd2212f8c61",
