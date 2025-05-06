@@ -1271,7 +1271,7 @@
             "id": "5423c8ab-7b00-42f0-97cc-98f530fe5ce0",
             "name": "Kai - Legacy, White Shirt",
             "keywords": ["Ninjago", "Kai", "red", "headband", "mask", "bandana"],
-            "item": "njo643",
+            "item": "njo0643",
             "set": 71730,
             "dates": ["2021-10-26", "2022-04-25", "2024-01-08"]
         },
@@ -1280,7 +1280,7 @@
             "name": "Skulkin - Hat",
             "keywords": ["Ninjago", "Skulkin", "skeleton", "skull", "cone", "conical", "hat"],
             "set": 71730,
-            "item": "njo642",
+            "item": "njo0642",
             "dates": ["2021-10-27", "2022-04-22", "2023-12-18"]
         },
         {
@@ -1602,7 +1602,7 @@
             "keywords": ["Marvel", "comics", "Thor", "Thor Odinson"],
             "item": "sh0098",
             "set": 76018,
-            "dates": ["2022-04-27", "2022-05-11", "2022-12-28"]
+            "dates": ["2022-04-27", "2022-05-11", "2022-12-28", "2025-05-06"]
         },
         {
             "id": "3e8a78ef-1e3b-4cb8-95ac-0c8c2a649dee",
@@ -2263,7 +2263,7 @@
             "rpg": [
                 { "campaign": "Tomb of Annihilation", "player": "Kelly" }
             ],
-            "item": "njo729",
+            "item": "njo0729",
             "notes": "This set had an upgrade for Jay so he's more than just 'hair'. He has a head wrap now.",
             "set": 71760,
             "dates": ["2022-03-25", "2023-10-30"]
@@ -2272,7 +2272,7 @@
             "id": "c288cae1-e900-4a1f-994e-537891ecf19a",
             "name": "Viper Flyer",
             "keywords": ["Ninjago", "viper", "snake"],
-            "item": "njo723",
+            "item": "njo0723",
             "set": 71760,
             "dates": ["2022-03-15", "2023-11-22"]
         },
@@ -2323,7 +2323,7 @@
             "rpg": [
                 { "campaign": "Tyranny of Dragons", "player": "Bryan", "character": "Bryanos II", "nickname": "White Phantom" }
             ],
-            "item": "njo494",
+            "item": "njo0494",
             "notes": "While this item appears in 4 sets, I'm not sure which it came from. Bryan bought it for his D&D character. After the campaign, he took it back",
             "dates": ["2022-03-08"]
         },
@@ -2469,7 +2469,7 @@
             "name": "Kai - Legacy",
             "keywords": ["Ninjago", "ninja", "Kai", "red", "dragon"],
             "set": 71701,
-            "item": "njo492",
+            "item": "njo0492",
             "dates": ["2022-04-20", "2023-11-30"]
         },
         {
@@ -2477,7 +2477,7 @@
             "name": "Lord Garmadon - Legacy",
             "keywords": ["Ninjago", "Lord Garmadon", "Garmadon", "bone", "staff"],
             "set": 71701,
-            "item": "njo596",
+            "item": "njo0596",
             "dates": ["2022-04-21", "2023-12-26"]
         },
         {
@@ -3440,7 +3440,7 @@
             "id": "bb045948-bce3-4e99-b3f8-3ce82273a1e0",
             "name": "Zane (Jungle Robe) - Tournament of Elements",
             "keywords": ["video games", "LEGO Dimensions", "television", "Ninjago", "ninja", "Zane", "grey"],
-            "item": "njo111",
+            "item": "njo0111",
             "set": 71217,
             "dates": ["2023-04-20"]
         },
@@ -3911,7 +3911,7 @@
             "name": "Ghost, Chain Master Wrayth / Ghost Warrior Wrayth",
             "keywords": ["Ninjago", "ghost", "chain master", "warrior", "wraith", "Wrayth", "translucent"],
             "set": 70744,
-            "item": "njo178",
+            "item": "njo0178",
             "dates": ["2023-01-30", "2024-01-02"]
         },
         {
