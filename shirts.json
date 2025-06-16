@@ -2562,6 +2562,14 @@
                 "space", "government", "NASA", "National Aeronotics and Space Administration", "space shuttle", "spaceflight", "rocket", "booster", "Atlantis"
             ],
             "dates": ["2025-05-12"]
+        },
+        {
+            "id": "e6519343-a00b-4a9b-b52b-2cfd37114d47",
+            "name": "Kiavi Tech Summit 2025",
+            "source": "https://kiavi.com",
+            "text": ["🏠Kiavi®️", "TECH SUMMIT", "Summer of '25"],
+            "keywords": ["work", "Kiavi", "van", "surfboard", "wheel", "window", "fin"],
+            "dates": ["2025-06-16"]
         }
     ]
 }
