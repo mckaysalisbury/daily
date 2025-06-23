@@ -524,7 +524,7 @@
             "id": "d4e02465-ee8a-4fee-b527-7a44774872c0",
             "name": "The Ancient One",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Masters of the Mystic Arts", "Sorcerer Supreme"],
-            "item": "sh0297",
+            "item": "sh0298",
             "set": 76060,
             "dates": ["2022-03-28"]
         },
@@ -2033,11 +2033,11 @@
         {
             "id": "0f491447-19cd-4a90-b2a7-2ea17c84a2a9",
             "name": "Fairy Batman, The LEGO Batman Movie",
-            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Bruce Wayne", "fairy", "pink", "Fairy Batmother"],
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Bruce Wayne", "fairy", "pink", "Fairy Batmother", "tutu"],
             "actor": "Will Arnett",
             "item": "coltlbm03",
             "set": 71017,
-            "dates": ["2022-06-14", "2023-08-28"]
+            "dates": ["2022-06-14", "2023-08-28", "2025-06-20"]
         },
         {
             "id": "dfcaf9be-63d0-45d5-83fa-c14c9715973a",
