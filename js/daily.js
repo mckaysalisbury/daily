@@ -64,7 +64,7 @@ function makeLink(uri, content = uri) {
     return `<a href="${uri}">${content}</a>`;
 }
 function makeImage(uri, alt = 'item image') {
-    return `<img src="${uri}" alt="${alt}"/>`;
+    return `<img src="${uri}" alt="${alt}" loading="lazy"/>`;
 }
 
 const entityMap = {
