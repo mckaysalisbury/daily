@@ -2594,6 +2594,13 @@
             "text": ["🏠Kiavi®️", "TECH SUMMIT", "Summer of '25"],
             "keywords": ["work", "Kiavi", "van", "surfboard", "wheel", "window", "fin"],
             "dates": ["2025-06-16"]
+        },
+        {
+            "id": "831bed16-eae5-427f-baf1-597b7a9d5450",
+            "name": "Kendall Crew - 2025",
+            "keywords": ["family", "fish", "fish lake"],
+            "style": "embroidered",
+            "dates": ["2025-07-21"]
         }
     ]
 }
