@@ -4814,6 +4814,13 @@
             "item": "cas267",
             "notes": "My mother found this at her office. She kept in a lost and found of sorts for a while (a decade?), then gave it to me when she retired",
             "dates": ["2025-01-30"]
+        },
+        {
+            "id": "9a7ef473-f5a5-4b8d-8985-f5560d86a39f",
+            "name": "Captain America",
+            "keywords": [],
+            "set": 76269,
+            "dates": ["2025-07-23"]
         }
     ]
 }
