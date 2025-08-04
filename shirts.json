@@ -1251,7 +1251,7 @@
             "keywords": ["video games", "Blizzard", "StarCraft", "StarCraft II", "Terran", "Tychus", "Zerg", "hydralisk", "marine"],
             "images": ["front", "back"],
             "images-name": "tychus-hydralisk",
-            "dates": ["2021-08-07", "2022-01-18", "2022-07-01", "2022-12-29", "2023-07-05", "2023-12-29", "2024-06-24", "2025-01-04"]
+            "dates": ["2021-08-07", "2022-01-18", "2022-07-01", "2022-12-29", "2023-07-05", "2023-12-29", "2024-06-24", "2025-01-04", "2025-07-28"]
         },
         {
             "id": "2b890529-f029-4013-a3f5-0bd9406c18dc",
@@ -2606,6 +2606,16 @@
             "keywords": ["family", "fish", "fish lake"],
             "style": "embroidered",
             "dates": ["2025-07-21"]
+        },
+        {
+            "id": "20a6e7b6-e93a-47ba-8cd4-c1b2b360ba72",
+            "name": "Rogers the Musical - Funko",
+            "text": ["ROGERS", "THE MUSICAL", "MARVEL STUDIOS", "hawkeye"],
+            "keywords": [
+                "television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America",
+                "Captain America shield", "Clint Barton", "Kate Bishop", "Funko Pop"
+            ],
+            "dates": []
         }
     ]
 }
