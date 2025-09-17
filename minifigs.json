@@ -4817,10 +4817,21 @@
         },
         {
             "id": "9a7ef473-f5a5-4b8d-8985-f5560d86a39f",
-            "name": "Captain America",
-            "keywords": [],
+            "name": "Captain America - Dark Blue Suit, Dark Red Hands, Hair - with Shield",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Captain America", "Avengers: Endgame", "Steve Rogers", "shield", "star", "hair"],
             "set": 76269,
+            "item": "sh0908",
+            "actor": "Chris Evans",
             "dates": ["2025-07-23", "2025-07-25", "2025-09-16"]
+        },
+        {
+            "id": "08e15a62-a030-4899-a144-f66f456859f1",
+            "name": "Alexander Pierce",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Captain America: Winter Soldier", "S.H.I.E.L.D.", "Hydra", "Alexander Pierce", "suit", "tie"],
+            "actor": "Robert Redford",
+            "set": 76269,
+            "item": "sh0920",
+            "dates": ["2025-09-17"]
         }
     ]
 }
