@@ -4827,11 +4827,13 @@
         {
             "id": "08e15a62-a030-4899-a144-f66f456859f1",
             "name": "Alexander Pierce",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Captain America: Winter Soldier", "S.H.I.E.L.D.", "Hydra", "Alexander Pierce", "suit", "tie"],
+            "keywords": [
+                "comics", "Marvel", "Marvel Cinematic Universe", "Captain America: Winter Soldier", "S.H.I.E.L.D.", "Hydra", "Alexander Pierce", "suit", "tie"
+            ],
             "actor": "Robert Redford",
             "set": 76269,
             "item": "sh0920",
-            "dates": ["2025-09-17"]
+            "dates": ["2025-09-17", "2025-09-18"]
         }
     ]
 }

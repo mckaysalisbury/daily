@@ -1743,10 +1743,12 @@
             "id": "2e2576b6-3f33-4635-aad9-db62fdfc1df6",
             "name": "Pi Be Rational",
             "text": ["Get Real", "Be Rational", "π", "√-1"],
-            "keywords": ["math", "pi", "square root", "irrational", "rational", "numbers", "imaginary", "real"],
+            "keywords": ["math", "humor", "pi", "square root", "irrational", "rational", "numbers", "imaginary", "real", "i"],
             "source": "https://www.snorgtees.com/pi-be-rational",
             "images": ["front"],
-            "dates": ["2021-09-10", "2022-02-22", "2022-08-04", "2023-01-11", "2023-06-21", "2023-12-15", "2024-06-21", "2025-01-07", "2025-03-14"]
+            "dates": [
+                "2021-09-10", "2022-02-22", "2022-08-04", "2023-01-11", "2023-06-21", "2023-12-15", "2024-06-21", "2025-01-07", "2025-03-14", "2025-09-18"
+            ]
         },
         {
             "id": "edfd43d2-63ae-431f-b639-b21b8ab317a1",
