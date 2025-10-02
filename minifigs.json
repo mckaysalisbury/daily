@@ -2425,6 +2425,7 @@
             "id": "1698d857-d07a-43aa-ac66-e0bf2565d010",
             "name": "Shang-Chi",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi",  "Shang-Chi and the Legend of the Ten Rings"],
+            "actor": "Simu Liu",
             "set": 76177,
             "item": "sh0700",
             "dates": ["2022-03-30"]
@@ -2436,6 +2437,7 @@
                 "comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Shang-Chi and the Legend of the Ten Rings", "Mandarin", "The Mandarin", "Wenwu",
                 "rings"
             ],
+            "actor": "Tony Leung Chiu-wai",
             "set": 76177,
             "item": "sh0701",
             "dates": ["2022-04-12", "2025-10-01"]
@@ -2452,6 +2454,7 @@
             "id": "fd23175e-fa22-4b44-992f-a5d906932420",
             "name": "Xialing",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Shang-Chi and the Legend of the Ten Rings", "Xialing"],
+            "actor": "Meng'er Zhang",
             "set": 76177,
             "item": "sh0706",
             "dates": ["2022-03-31"]
