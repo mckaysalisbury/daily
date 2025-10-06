@@ -490,10 +490,10 @@
             "name": "Enterprise - Command division",
             "style": "polo",
             "text": [],
-            "keywords": ["TV", "Star Trek", "Starfleet uniform", "U.S.S. Enterprise", "Command gold"],
+            "keywords": ["TV", "Star Trek", "Starfleet uniform", "U.S.S. Enterprise", "Command gold", "Kirk"],
             "images-name": "command",
             "images": ["front", "logo"],
-            "dates": ["2021-05-30", "2022-05-15", "2023-04-05", "2025-05-23", "2025-08-17"]
+            "dates": ["2021-05-30", "2022-05-15", "2023-04-05", "2025-05-23", "2025-08-17", "2025-10-05"]
         },
         {
             "id": "aac7bd49-4793-40dc-8ab6-661371b95684",
