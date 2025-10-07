@@ -509,6 +509,7 @@
             "name": "Doctor Strange",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Masters of the Mystic Arts", "Sorcerer Supreme", "Infinity stone", "Time stone", "Eye of Agamotto", "Cloak of Levitation"],
             "item": "sh0296",
+            "actor": "Benedict Cumberbatch",
             "set": 76060,
             "dates": ["2021-07-07", "2022-02-06", "2025-06-24"]
         },
@@ -516,14 +517,16 @@
             "id": "abb85b88-861e-4e26-b9ca-a177158d8986",
             "name": "Karl Mordo",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Masters of the Mystic Arts"],
+            "actor": "Chiwetel Ejiofor",
             "item": "sh0297",
             "set": 76060,
-            "dates": ["2022-03-29"]
+            "dates": ["2022-03-29", "2025-10-07"]
         },
         {
             "id": "d4e02465-ee8a-4fee-b527-7a44774872c0",
             "name": "The Ancient One",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Masters of the Mystic Arts", "Sorcerer Supreme"],
+            "actor": "Tilda Swinton",
             "item": "sh0298",
             "set": 76060,
             "dates": ["2022-03-28"]
