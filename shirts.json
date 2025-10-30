@@ -1377,7 +1377,9 @@
             "notes": "New Relic was courting Hulu",
             "images": ["front", "back", "logo"],
             "images-name": "data-nerd",
-            "dates": ["2021-08-12", "2022-01-13", "2022-06-21", "2022-12-28", "2023-06-01", "2023-11-10", "2024-05-17", "2024-11-22", "2025-05-23"]
+            "dates": [
+                "2021-08-12", "2022-01-13", "2022-06-21", "2022-12-28", "2023-06-01", "2023-11-10", "2024-05-17", "2024-11-22", "2025-05-23", "2025-10-29"
+            ]
         },
         {
             "id": "b675aa91-bd3b-444d-aedb-a4a018d011bd",
@@ -2583,7 +2585,7 @@
             "text": ["PREMIERE", "LEVEL", "", "THEY", "MIGHT", "BE", "GIANTS", "INSTANT", "FAN", "CLUB"],
             "keywords": ["music", "They Might Be Giants", "TMBG", "Instant Fan Club", "IFC", "skeleton", "key", "you must be thinking of some other band"],
             "source": "https://www.tmbgifc.com/",
-            "dates": ["2024-10-15", "2025-04-23"]
+            "dates": ["2024-10-15", "2025-04-23", "2025-10-30"]
         },
         {
             "id": "9242b75e-5527-45cd-a1c5-b50ad8abd750",
