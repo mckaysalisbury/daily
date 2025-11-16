@@ -2402,7 +2402,7 @@
             "text": ["Your favorite", "DBMS sucks.", "", "Alphora™️", "www.alphora.com"],
             "keywords": ["software", "DBMS", "Database Management System", "Database", "Alphora", "Dataphor"],
             "images": ["logo", "front", "back"],
-            "dates": []
+            "dates": ["2025-11-15"]
         },
         {
             "id": "1c102ae8-a0a1-43a9-8bc0-016433324dd4",
@@ -2717,7 +2717,7 @@
                 "qep'a'", "Klingon", "KLI", "pIqaD", "wejmaH cha'DIch", "32nd grand meeting", "2025", "At our destination, we do not require Earth languages",
                 "Where we're going we don't need Earth languages", "Captain Krudge", "Maltz"
             ],
-            "dates": ["2025-08-08"]
+            "dates": ["2025-08-08", "2025-11-15"]
         }
     ]
 }
