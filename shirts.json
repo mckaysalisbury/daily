@@ -79,7 +79,7 @@
             "id": "0dc3e403-f6a1-42ee-b07f-474250c61085",
             "name": "StarCraft II World Championship Series Global Finals 2013",
             "text": [
-                "SCII", "", "StarCraft II", "WORLD CHAMPIONSHIP SERIES", "GLOBAL FINALS", "SEASON 1 FINALS", "SEOUL_SOUTH KOREA",
+                "SC", "II", "", "StarCraft II", "WORLD CHAMPIONSHIP SERIES", "GLOBAL FINALS", "SEASON 1 FINALS", "SEOUL_SOUTH KOREA",
                 "SEASON 2 FINALS", "COLOGNE_GERMANY", "SEASON 3 FINALS", "TORONTO_CANADA", "GLOBAL FINALS", "BLIZZCON 13", "ANAHEIM_USA",
                 "BLIZZARD®", "ENTERTAINMENT"
             ],
@@ -87,7 +87,7 @@
             "source": "https://blizzcon.com",
             "images": ["front", "back"],
             "images-name": "SC22013",
-            "dates": ["2021-05-01", "2022-03-01", "2022-08-20", "2022-10-25", "2023-04-24", "2023-10-16", "2024-04-24", "2024-11-08", "2025-06-20"]
+            "dates": ["2021-05-01", "2022-03-01", "2022-08-20", "2022-10-25", "2023-04-24", "2023-10-16", "2024-04-24", "2024-11-08", "2025-06-20", "2025-12-17"]
         },
         {
             "id": "62c45d27-7f95-47b6-bfd4-3c3666c2656c",
