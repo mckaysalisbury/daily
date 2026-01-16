@@ -2772,7 +2772,7 @@
         },
         {
             "id": "159c150a-cad9-44a3-bf5c-5bb6b35eba05",
-            "name": "Periodic Table of Star Trke",
+            "name": "Periodic Table of Star Trek",
             "text": [
                 "PERIODIC TABLE OF", "STAR TREK™️", "STARFLEET CAPTAINS", "STARFLEET CREW", "VILLAINS", "SMALL SHIPS", "SHIPS",
                 "1.", "Ck", "James T.", "Kirk",
@@ -2851,10 +2851,10 @@
                 "73.", "Ep", "U.S.S. Enterprise 1701-D",
                 "74.", "Ep", "U.S.S. Enterprise 1701-E",
                 "75.", "Dc", "U.S.S. Discovery",
-                "76.", "Sz", "U.S.S. Shenzhou",
+                "76.", "Sz", "U.S.S. Shenzhou"
             ],
             "keywords": [ "television", "movies", "Star Trek", "periodic table", "elements", "captains", "crew", "villains", "ships", "small ships" ],
-            "dates": []
+            "dates": ["2026-01-16"]
         }
     ]
 }
