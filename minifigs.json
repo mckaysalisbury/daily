@@ -5024,7 +5024,7 @@
         {
             "id": "bdd2e3f4-a5b6-c7d8-e9f0-a1b2c3d4e5f6f2",
             "name": "The Wasp (Hope van Dyne) - Trans-Clear Wings with Hexagons",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Wasp", "Hope van Dyne"],
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Wasp", "Hope van Dyne", "wings"],
             "actor": "Evangeline Lilly",
             "item": "sh0927",
             "set": 76269,
@@ -5033,7 +5033,7 @@
         {
             "id": "cee3f4a5-b6c7-d8e9-f0a1-b2c3d4e5f6a7g3",
             "name": "Tony Stark - Black Shirt with Gold Helmet, Pin Holder on Back",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Tony Stark", "Iron Man"],
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Tony Stark", "Iron Man", "t-shirt", "gold helmet", "Black Sabbath", "Metallica"],
             "actor": "Robert Downey Jr.",
             "item": "sh0928",
             "set": 76269,
@@ -5041,8 +5041,8 @@
         },
         {
             "id": "dff4a5b6-c7d8-e9f0-a1b2-c3d4e5f6a7b8h4",
-            "name": "Falcon - Dark Bluish Gray and Black Suit, Printed Legs",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Falcon", "Sam Wilson"],
+            "name": "Falcon - Dark Bluish Gray and Black Suit, Printed Legs -- wings",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Falcon", "Sam Wilson", "wings", "jetpack", "Redwing", "guns", "goggles"],
             "actor": "Anthony Mackie",
             "item": "sh0929",
             "set": 76269,
@@ -5051,7 +5051,7 @@
         {
             "id": "a0g5b6c7-d8e9-f0a1-b2c3-d4e5f6a7b8c9i5",
             "name": "Dr. Erik Selvig",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Erik Selvig", "doctor"],
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Erik Selvig", "doctor", "scientist", "laptop"],
             "actor": "Stellan Skarsgård",
             "item": "sh0930",
             "set": 76269,
@@ -5060,7 +5060,7 @@
         {
             "id": "b1h6c7d8-e9f0-a1b2-c3d4-e5f6a7b8c9daj6",
             "name": "Kevin Feige",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Kevin Feige", "producer"],
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Kevin Feige", "producer", "Marvel Studios", "coffee", "shawarma", "Avengers", "hat"],
             "actor": "Kevin Feige",
             "item": "sh0931",
             "set": 76269,
