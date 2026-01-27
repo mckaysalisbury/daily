@@ -5082,6 +5082,148 @@
             "item": "sh0933",
             "set": 76269,
             "dates": ["2026-01-21"]
+        },
+        {
+            "id": "29aa1d01-0f6b-4f0d-8b15-06e6024c2eaa",
+            "name": "Miles Morales / Spider-Man",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Miles Morales", "Spider-Man",
+                "spider"
+            ],
+            "actor": "Shameik Moore",
+            "item": "colspi01",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "30bb2e12-1a7c-4e1e-9c26-17f7135d3fbb",
+            "name": "Hobie Brown / Spider-Punk",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Hobie Brown", "Spider-Punk",
+                "mohawk", "guitar"
+            ],
+            "actor": "Daniel Kaluuya",
+            "item": "colspi02",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "31cc3f23-2b8d-4f2f-8d37-28f8246e40cc",
+            "name": "Miles G. Morales / Prowler",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Miles G. Morales", "Prowler",
+                "record", "gloves"
+            ],
+            "actor": "Jharrel Jerome",
+            "item": "colspi03",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "32dd4034-3c9e-4f30-9e48-39f9357f51dd",
+            "name": "Gwen Stacy / Spider Gwen",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Gwen Stacy", "Spider-Gwen",
+                "Ghost Spider", "hood", "photograph"
+            ],
+            "actor": "Hailee Steinfeld",
+            "item": "colspi04",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "33ee5145-4dad-4f41-af59-4a0a468062ee",
+            "name": "Miguel O'Hara / Spider-Man 2099",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Miguel O'Hara",
+                "Spider-Man 2099", "cape", "hologram", "LYLA", "LYrate Lifeform Approximation"
+            ],
+            "actor": "Oscar Isaac",
+            "item": "colspi05",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "34ff6256-5ebe-4f52-b06a-5b1b579173ff",
+            "name": "Pavitr Prabhakar / Spider-Man India",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Pavitr Prabhakar",
+                "Spider-Man India", "cat", "teacup"
+            ],
+            "actor": "Karan Soni",
+            "item": "colspi06",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "35a07367-6fcf-4f63-c17b-6c2c68a28410",
+            "name": "Petra Parker / Cyborg Spider-Woman",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Petra Parker",
+                "Cyborg Spider-Woman", "cyborg", "robot arm"
+            ],
+            "actor": "Sofia Barclay",
+            "item": "colspi07",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "36b18478-7010-4f74-d28c-7d3d79b39521",
+            "name": "Charlotte Webber / Sun-Spider",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Charlotte Webber", "Sun-Spider",
+                "baton", "hat", "cap"
+            ],
+            "item": "colspi08",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "37c29589-8121-4f85-e39d-8e4e8ac4a632",
+            "name": "Margo Kess / Spider-Byte",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Margo Kess", "Spider-Byte",
+                "computer"
+            ],
+            "actor": "Amandla Stenberg",
+            "item": "colspi09",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "38d3a69a-9232-4f96-f40e-9f5f9bd5b743",
+            "name": "Peter B. Parker / Spider-Man & May 'Mayday' Parker",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Peter B. Parker",
+                "Mayday Parker", "carrier"
+            ],
+            "actor": "Jake Johnson",
+            "item": "colspi10",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "39e4b7ab-a343-4097-951f-af60a0e6c854",
+            "name": "Patrick O'Hara / Web-Slinger",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Patrick O'Hara", "Web-Slinger",
+                "lasso", "hat", "horse", "cowboy", "bandana"
+            ],
+            "actor": "Taran Killam",
+            "item": "colspi12",
+            "set": 71050,
+            "dates": []
+        },
+        {
+            "id": "40f5c8bc-b454-40a8-8620-b071b1f7d965",
+            "name": "Peter Parker / Werewolf Spider-Man",
+            "keywords": [
+                "comics", "Marvel", "movies", "collectible minifigures", "Spider-Verse", "Spider-Man Across the Spider-Verse", "Peter Parker",
+                "Werewolf Spider-Man", "werewolf"
+            ],
+            "item": "colspi13",
+            "set": 71050,
+            "dates": []
         }
     ]
 }
