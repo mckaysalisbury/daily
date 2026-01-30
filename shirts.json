@@ -2866,6 +2866,13 @@
             ],
             "keywords": [ "television", "movies", "Star Trek", "periodic table", "elements", "captains", "crew", "villains", "ships", "small ships" ],
             "dates": ["2026-01-16"]
+        },
+        {
+            "id": "5e2de4aa-748c-44cc-9a44-4bef5db3d559",
+            "name": "Live Long and Prosper",
+            "text": ["LIVE LONG", "& PROSPER", "TM & ©️ 2018 CBS STUDIOS INC. ALL RIGHTS RESERVED."],
+            "keywords": ["television", "Star Trek", "Leonard Nimoy", "Spock", "🖖", "Vulcan", "Vulcan hand salute"],
+            "dates": ["2026-01-30"]
         }
     ]
 }
