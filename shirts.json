@@ -2917,10 +2917,15 @@
         },
         {
             "id": "e08ebab2-dd5d-4212-af5a-e117a9e1a46c",
-           "name": "How I Roll",
-           "text": ["HOW I ROLL", "&", "12", "2", "20", "10", "8", "6", "Dungeons & Dragons®️"],
-           "keywords": ["games", "Dungeons & Dragons", "D&D", "die", "D20", "dragon", "ampersand"],
-           "dates": ["2026-02-05"]
+            "name": "How I Roll",
+            "text": ["HOW I ROLL", "&", "12", "2", "20", "10", "8", "6", "Dungeons & Dragons®️"],
+            "keywords": ["games", "Dungeons & Dragons", "D&D", "die", "D20", "dragon", "ampersand"],
+            "dates": ["2026-02-05"]
+        },
+        {
+            "id": "c0b1854a-004c-46e0-875f-c1f869f4c94a",
+            "name": "BYU STEM event 2026",
+            "dates": ["2026-04-04"]
         }
     ]
 }
