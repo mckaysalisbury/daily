@@ -3592,10 +3592,13 @@
         {
             "id": "792daa07-b66a-4070-873e-6a3433c4945d",
             "name": "Newt Scamander, Dark Blue Trench Coat, Dark Tan Vest",
-            "keywords": ["movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Fantastic Beasts", "Fantastic Beasts and Where to Find Them", "Newt Scamander"],
+            "keywords": [
+                "movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Fantastic Beasts",
+                "Fantastic Beasts and Where to Find Them", "Newt Scamander", "wizard", "wand"
+            ],
             "item": "dim034",
             "set": 71253,
-            "dates": ["2023-04-03"]
+            "dates": ["2023-04-03", "2026-04-14"]
         },
         {
             "id": "aa106170-4d35-4e79-a690-2783ae8a2380",
