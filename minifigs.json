@@ -5227,6 +5227,86 @@
             "item": "colspi13",
             "set": 71050,
             "dates": ["2026-03-26"]
+        },
+        {
+            "id": "60d7e41d-e90e-4173-9740-b7dc894a07fb",
+            "name": "Wolverine - Hair, Blue Hands",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Wolverine", "Logan", "mutant", "claws"],
+            "item": "sh0989",
+            "set": 76294,
+            "dates": []
+        },
+        {
+            "id": "dc1e0410-c932-4942-a9a0-fa58a79b693f",
+            "name": "Professor X (Charles Francis Xavier) - Dark Blue Suit",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Professor X", "Charles Xavier", "mutant", "telepath", "wheelchair"],
+            "item": "sh0990",
+            "set": 76294,
+            "dates": []
+        },
+        {
+            "id": "da9f7c54-d32b-4762-8a41-ecc1db7f85c4",
+            "name": "Jean Grey",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Jean Grey", "mutant", "telepath", "telekinesis"],
+            "item": "sh0991",
+            "set": 76294,
+            "dates": []
+        },
+        {
+            "id": "157ed809-4514-4a95-9397-b9c1dbf38e99",
+            "name": "Cyclops - Blue Outfit, Printed Legs",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Cyclops", "Scott Summers", "mutant", "visor"],
+            "item": "sh0992",
+            "set": 76294,
+            "dates": []
+        },
+        {
+            "id": "23874a85-797d-47a0-9583-397ecf7fb414",
+            "name": "Storm - White Suit, Long Hair",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Storm", "Ororo Munroe", "mutant", "lightning", "weather"],
+            "item": "sh0993",
+            "set": 76294,
+            "dates": []
+        },
+        {
+            "id": "41559bc4-66a6-4d2e-a7aa-95c0b175f84d",
+            "name": "Gambit",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Gambit", "Remy LeBeau", "mutant", "cards", "staff"],
+            "item": "sh0994",
+            "set": 76294,
+            "dates": []
+        },
+        {
+            "id": "9f5924d6-9f04-4b0c-9a39-5a56432e8240",
+            "name": "Iceman - Medium Blue Eyes and Mouth",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Iceman", "Bobby Drake", "mutant", "ice"],
+            "item": "sh0995",
+            "set": 76294,
+            "dates": []
+        },
+        {
+            "id": "15f396c5-f432-4336-8ece-93fb6bc0b0ac",
+            "name": "Bishop",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Bishop", "mutant", "future", "blaster"],
+            "item": "sh0996",
+            "set": 76294,
+            "dates": []
+        },
+        {
+            "id": "539bcc76-04b3-43b3-8eb7-0a5d9ae459f9",
+            "name": "Magneto - Red Outfit, Flexible Rubber Cape",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Magneto", "Erik Lehnsherr", "mutant", "helmet", "cape"],
+            "item": "sh0997",
+            "set": 76294,
+            "dates": []
+        },
+        {
+            "id": "e534ebc0-74ef-42d3-b3ff-73f8fb0ecbab",
+            "name": "Rogue",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "X-Men", "X-Men '97", "Rogue", "mutant", "flight", "strength"],
+            "item": "sh0942",
+            "set": 76294,
+            "dates": []
         }
     ]
 }
