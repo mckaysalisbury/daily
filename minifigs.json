@@ -5317,6 +5317,102 @@
             "set": 30702,
             "notes": "I have two of this \"minifig\".",
             "dates": []
+        },
+        {
+            "id": "2ad391a2-55a3-4970-828d-0f7dd4fb2ac8",
+            "name": "Robot T. rex",
+            "keywords": ["collectible minifigures", "series 29", "robot", "dinosaur", "T-Rex", "tyrannosaurus rex", "mechanical"],
+            "item": "col473",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "6df0ad2e-33ea-45d9-b2ac-bba0e3f89ee4",
+            "name": "Marine Biologist",
+            "keywords": ["collectible minifigures", "series 29", "marine biologist", "ocean", "sea", "fish", "research"],
+            "item": "col474",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "66926cd1-5f8d-4f63-9b98-3e8cf3d3a8f3",
+            "name": "BIONICLE Cosplayer",
+            "keywords": ["collectible minifigures", "series 29", "BIONICLE", "cosplayer", "mask", "costume"],
+            "item": "col475",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "c67f3678-61a8-4c8d-9b36-e58cf0a8b994",
+            "name": "Monster Hunter",
+            "keywords": ["collectible minifigures", "series 29", "monster hunter", "hunter", "sword", "crossbow"],
+            "item": "col476",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "90546ccc-7268-47e8-b286-dfb0ca8ff97d",
+            "name": "Boba Cup Fan",
+            "keywords": ["collectible minifigures", "series 29", "boba", "bubble tea", "cup", "costume"],
+            "item": "col477",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "a9b0936e-5461-4f4f-bd89-fe4ce4fd78fe",
+            "name": "Trash Monster",
+            "keywords": ["collectible minifigures", "series 29", "monster", "trash", "garbage", "recycling", "broom"],
+            "item": "col478",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "c8ef0646-a7be-45f6-8b1f-b5d7ca2d9f9f",
+            "name": "Chocolatier",
+            "keywords": ["collectible minifigures", "series 29", "chocolatier", "chocolate", "candy", "chef", "cocoa"],
+            "item": "col479",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "fd801228-912e-4ad2-a5b8-4c22ef36f485",
+            "name": "Tuba Player",
+            "keywords": ["collectible minifigures", "series 29", "music", "musician", "marching band", "tuba"],
+            "item": "col480",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "3883d2d0-52d7-4db3-95e8-3329ceaf24dc",
+            "name": "Football Goalkeeper",
+            "keywords": ["collectible minifigures", "series 29", "football", "soccer", "goalkeeper", "goalie", "sports"],
+            "item": "col481",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "5f9de4ca-c11f-4c8d-9bcf-40d3574048e7",
+            "name": "Cute Witch",
+            "keywords": ["collectible minifigures", "series 29", "witch", "magic", "hat", "broom", "cat"],
+            "item": "col482",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "2efdd1a2-12d4-4387-8448-cd5f07e03f31",
+            "name": "Mysterious Ronin",
+            "keywords": ["collectible minifigures", "series 29", "ronin", "samurai", "warrior", "katana", "armor"],
+            "item": "col483",
+            "set": 71052,
+            "dates": []
+        },
+        {
+            "id": "03d60607-e73a-4ec8-8fa8-5543fdf3d1f6",
+            "name": "Unicorn Elf",
+            "keywords": ["collectible minifigures", "series 29", "elf", "unicorn", "fantasy", "shield", "sword"],
+            "item": "col484",
+            "set": 71052,
+            "dates": []
         }
     ]
 }
