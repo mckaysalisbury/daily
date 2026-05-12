@@ -5307,6 +5307,16 @@
             "item": "sh0942",
             "set": 76294,
             "dates": []
+        },
+        {
+            "id": "a88208fc-ea0c-4b3f-9d7d-b10889d5fcd1",
+            "name": "Toad - Pit Crew Uniform",
+            "style": "character",
+            "keywords": ["video games", "Nintendo", "Super Mario", "Mario Kart", "Toad", "pit crew", "toadstool"],
+            "item": "mar0208",
+            "set": 30702,
+            "notes": "I have two of this \"minifig\".",
+            "dates": []
         }
     ]
 }
