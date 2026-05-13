@@ -13,11 +13,12 @@ Input format:
 
 Execution requirements:
 1. Parse the set number from the `Set:` field.
-2. Populate all matching minifig entries for that set.
-3. Follow all repository conventions from the skill and its references.
-4. Never auto-add date values; new entries must use `"dates": []`.
-5. For CMF sets, use sub-set description names and common searchable keywords.
-6. Validate JSON before finishing.
+2. Populate the minifigs.json file for all minifig entries in that set.
+3. If any of the minifigs (by item ID) already exist in the file, skip them and do not modify existing records, but make a note of which ones were skipped in the final report.
+4. Follow all repository conventions from the skill and its references.
+5. Never auto-add date values; new entries must use `"dates": []`.
+6. For CMF sets, use sub-set description names and common searchable keywords.
+7. Validate JSON before finishing.
 
 Output requirements:
 1. Summarize exactly which entries were added.
