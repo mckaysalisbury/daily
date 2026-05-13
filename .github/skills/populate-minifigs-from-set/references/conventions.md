@@ -29,6 +29,8 @@ Typical key order used by this repository:
 - Include category terms that match nearby entries (for example "collectible minifigures", "series 29").
 - Include obvious object/role tags (for example "witch", "goalkeeper", "robot").
 - Add close synonyms when they improve searchability.
+- Keep keywords concise and high-signal; avoid overfitting with every possible printed detail.
+- Prefer consistency with other entries over maximizing keyword count.
 
 ## Source Strategy
 When a set page does not directly list minifig inventory:

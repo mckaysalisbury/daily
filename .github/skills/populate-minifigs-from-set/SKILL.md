@@ -38,8 +38,9 @@ Add one or more entries to minifigs.json from a LEGO set while matching this rep
     - and category terms (e.g. "collectible minifigures", "series 29")
     - name of character (if it has one)
     - Other high-level useful groupings
-    - Any text on the figure or accessories
-    - included accessories
+    - included accessories that are actually included in the set for the minifig.
+  - Prefer concise keyword sets over exhaustive extraction.
+  - Do not add speculative or noisy keywords (for example text that isn't on the minifig) unless they are likely to appear on other minifigures.
 - Typical optional fields: actor, style, notes
 - For this repo, set dates to an empty array for new entries
 5. Insert entries near the end of data without reformatting the whole file.
