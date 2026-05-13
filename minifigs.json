@@ -5413,6 +5413,22 @@
             "item": "col484",
             "set": 71052,
             "dates": []
+        },
+        {
+            "id": "687a2eca-53ef-4865-bf76-a113a68f794f",
+            "name": "Bruce Wayne - Black Suit with Dark Blue Tie",
+            "keywords": ["comics", "DC", "Batman", "Bruce Wayne", "suit", "tie"],
+            "item": "sh1114",
+            "set": 30726,
+            "dates": []
+        },
+        {
+            "id": "9ff53a74-b431-4619-aa4d-53245cfa6e2b",
+            "name": "Batman Batsuit - Black with Yellow Belt with Medium Nougat Details, Cowl with White Eyes, Flexible Rubber Cape, Trans-Light Blue Head",
+            "keywords": ["comics", "DC", "Batman", "Bruce Wayne", "batsuit", "cowl", "cape", "batarang", "utility belt"],
+            "item": "sh1115",
+            "set": 30726,
+            "dates": []
         }
     ]
 }
