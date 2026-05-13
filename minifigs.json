@@ -5327,14 +5327,6 @@
             "dates": []
         },
         {
-            "id": "6df0ad2e-33ea-45d9-b2ac-bba0e3f89ee4",
-            "name": "Marine Biologist",
-            "keywords": ["collectible minifigures", "series 29", "marine biologist", "ocean", "sea", "fish", "research"],
-            "item": "col474",
-            "set": 71052,
-            "dates": []
-        },
-        {
             "id": "66926cd1-5f8d-4f63-9b98-3e8cf3d3a8f3",
             "name": "BIONICLE Cosplayer",
             "keywords": ["collectible minifigures", "series 29", "BIONICLE", "cosplayer", "mask", "costume"],
@@ -5351,14 +5343,6 @@
             "dates": []
         },
         {
-            "id": "90546ccc-7268-47e8-b286-dfb0ca8ff97d",
-            "name": "Boba Cup Fan",
-            "keywords": ["collectible minifigures", "series 29", "boba", "bubble tea", "cup", "costume"],
-            "item": "col477",
-            "set": 71052,
-            "dates": []
-        },
-        {
             "id": "a9b0936e-5461-4f4f-bd89-fe4ce4fd78fe",
             "name": "Trash Monster",
             "keywords": ["collectible minifigures", "series 29", "monster", "trash", "garbage", "recycling", "broom"],
@@ -5371,14 +5355,6 @@
             "name": "Chocolatier",
             "keywords": ["collectible minifigures", "series 29", "chocolatier", "chocolate", "candy", "chef", "cocoa"],
             "item": "col479",
-            "set": 71052,
-            "dates": []
-        },
-        {
-            "id": "fd801228-912e-4ad2-a5b8-4c22ef36f485",
-            "name": "Tuba Player",
-            "keywords": ["collectible minifigures", "series 29", "music", "musician", "marching band", "tuba"],
-            "item": "col480",
             "set": 71052,
             "dates": []
         },
