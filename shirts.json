@@ -2941,7 +2941,14 @@
         {
             "id": "c0b1854a-004c-46e0-875f-c1f869f4c94a",
             "name": "BYU STEM event 2026",
-            "dates": ["2026-04-04"]
+            "text": [
+                "DISCOVER STEM", "SCIENCE", "🧪", "🛰️", "TECHNOLOGY", "ENGINEERING", "⚙️⚙️", "MATHEMATICS", "📈", "AT BYU", "", "π", "⚙️⚙️⚙️⚙️",
+                "HOSTED BY", "MEA", "THE MATHEMATICS EDUCATION ASSOCIATION"
+            ],
+            "keywords": [
+                "BYU", "STEM", "science", "technology", "engineering", "mathematics", "MEA", "Mathematics Education Association", "beaker", "test tube",
+                "satellite", "gears", "calculator", "graph", "pi"],
+            "dates": ["2026-04-04", "2026-05-13"]
         }
     ]
 }
