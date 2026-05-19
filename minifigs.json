@@ -971,6 +971,7 @@
             "keywords": ["comics", "Marvel", "Spider-Man"],
             "item": "sh0684",
             "set": 76173,
+            "notes": "I also have this in set 30725",
             "dates": ["2021-09-01", "2021-09-05", "2022-02-22", "2024-11-06"]
         },
         {
@@ -5416,6 +5417,14 @@
             "keywords": ["promotional", "LEGO Brand Store", "employee", "polybag"],
             "item": "tls086",
             "set": 5001622,
+            "dates": []
+        },
+        {
+            "id": "a6f13ad0-8b0c-4bde-a7b0-3e5cb76dd2ea",
+            "name": "Anti-Venom - Small",
+            "keywords": ["comics", "Marvel", "Spider-Man", "Anti-Venom"],
+            "item": "sh1116",
+            "set": 30725,
             "dates": []
         }
     ]
