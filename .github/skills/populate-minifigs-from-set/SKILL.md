@@ -21,6 +21,13 @@ Add one or more entries to minifigs.json from a LEGO set while matching this rep
 - Use common, searchable keywords similar to existing CMF and theme entries.
 - Do not alter unrelated records.
 
+## Source Strategy
+- For standard (non-CMF) sets, use a single BrickLink set inventory URL as the default source:
+  - `https://www.bricklink.com/catalogItemInv.asp?S=<set-number>-1&viewItemType=M`
+- Treat the BrickLink minifigure inventory as authoritative for item IDs and base minifigure names.
+- Only use additional sources when needed (for example page unavailable, unclear naming preference, or ambiguous variant handling).
+- For CMF series, continue using sub-set level listings and names per CMF guidance.
+
 ## Procedure
 1. Inspect current patterns in minifigs.json.
 2. Determine whether the request is:
@@ -30,6 +37,7 @@ Add one or more entries to minifigs.json from a LEGO set while matching this rep
 - Set and sub-set names
 - Minifig item IDs (for example col###, sh####, sw####)
 - Any aliases useful for keywords
+- For non-CMF sets, start from the BrickLink inventory page and avoid extra web requests unless other information is needed.
 4. Build entry objects:
 - Required fields: id, name, keywords, dates, item, set
   - For keywords, be sure to include the following, but only if applicable:
