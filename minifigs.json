@@ -5409,6 +5409,14 @@
             "item": "sh1115",
             "set": 30726,
             "dates": []
+        },
+        {
+            "id": "f3a4b87a-2f15-4fb2-9cc4-5bda085fddde",
+            "name": "LEGO Brand Store Employee, Male",
+            "keywords": ["promotional", "LEGO Brand Store", "employee", "polybag"],
+            "item": "tls086",
+            "set": 5001622,
+            "dates": []
         }
     ]
 }
