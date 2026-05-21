@@ -5426,6 +5426,24 @@
             "item": "sh1116",
             "set": 30725,
             "dates": []
+        },
+        {
+            "id": "e3f8eab4-3c7a-4f52-8d47-8d4c54a2bd2f",
+            "name": "Doc Brown - Long Hair, Tool Belt",
+            "keywords": ["movies", "Back to the Future", "Doc Brown", "Emmett Brown", "tool belt", "wrench"],
+            "actor": "Christopher Lloyd",
+            "item": "sc139",
+            "set": 77256,
+            "dates": []
+        },
+        {
+            "id": "0e5f8ed7-9a4d-4fd5-9b4b-6aefcf4cb2e1",
+            "name": "Marty McFly - Red Puffer Vest over Sand Blue Jacket, Blue Arms",
+            "keywords": ["movies", "Back to the Future", "Marty McFly", "puffer vest"],
+            "actor": "Michael J. Fox",
+            "item": "sc138",
+            "set": 77256,
+            "dates": []
         }
     ]
 }
