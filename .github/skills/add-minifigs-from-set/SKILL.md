@@ -1,11 +1,11 @@
 ---
-name: populate-minifigs-from-set
-description: 'Populate minifigs.json from a LEGO set number, including standard sets and Collectible Minifigures (CMF) series. Use when asked to add figures from a set, import all minifigs from a set, or add CMF series entries. Preserves repository conventions: no auto-added date values, CMF names from sub-set descriptions, and common keyword style.'
+name: add-minifigs-from-set
+description: 'Add minifigs to minifigs.json from a LEGO set number, including standard sets and Collectible Minifigures (CMF) series. Use when asked to add figures from a set, import all minifigs from a set, or add CMF series entries. Preserves repository conventions: no auto-added date values, CMF names from sub-set descriptions, and common keyword style.'
 argument-hint: 'Provide set number and optional notes about source style or keyword preferences.'
 user-invocable: true
 ---
 
-# Populate Minifigs From Set
+# Add Minifigs From Set
 
 Add one or more entries to minifigs.json from a LEGO set while matching this repository's conventions.
 

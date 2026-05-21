@@ -5,7 +5,7 @@ argument-hint: "Set: 71052 | Notes: optional"
 agent: "agent"
 ---
 
-Use the workflow in [populate-minifigs-from-set skill](../skills/populate-minifigs-from-set/SKILL.md) to add minifig entries into [minifigs.json](../../minifigs.json).
+Use the workflow in [add-minifigs-from-set skill](../skills/add-minifigs-from-set/SKILL.md) to add minifig entries into [minifigs.json](../../minifigs.json).
 
 Input format:
 - `Set: <set-number>`
