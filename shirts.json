@@ -2958,6 +2958,13 @@
                 "BYU", "STEM", "science", "technology", "engineering", "mathematics", "MEA", "Mathematics Education Association", "beaker", "test tube",
                 "satellite", "gears", "calculator", "graph", "pi"],
             "dates": ["2026-04-04", "2026-05-13"]
+        },
+        {
+            "id": "d3d889a3-ae93-48b0-806d-0b6645190388",
+            "name": "Valon - black",
+            "text": ["VALON"],
+            "keywords": ["Valon", "swag", "work"],
+            "dates": ["2026-06-02"]
         }
     ]
 }
