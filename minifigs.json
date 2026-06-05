@@ -5449,7 +5449,7 @@
         {
             "id": "e527304a-dd73-48c2-babf-4b6458f4c45a",
             "name": "Black Widow - Black Jumpsuit, Dark Orange Short Hair, Printed Legs, Metallic Light Blue Trim",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "The Infinity Saga", "Black Widow", "Natasha Romanoff", "baton", "gun"],
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Black Widow", "Natasha Romanoff", "baton", "gun"],
             "item": "sh0881",
             "actor": "Scarlett Johansson",
             "set": 76260,
@@ -5458,10 +5458,20 @@
         {
             "id": "1c2f4143-8537-40b5-b481-22d991a3fae8",
             "name": "Captain America - Dark Blue Suit with Reddish Brown Belt and Harness, Reddish Brown Hands, Helmet",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "The Infinity Saga", "Captain America", "Steve Rogers", "shield", "helmet"],
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Captain America", "Steve Rogers", "shield", "helmet"],
             "item": "sh0736",
             "actor": "Chris Evans",
             "set": 76260,
+            "dates": []
+        }
+        {
+            "id": "4cc95728-b697-493d-bd90-fa79d69a6fc7",
+            "name": "Captain America - Dark Blue Suit with Reddish Brown Belt and Harness, Reddish Brown Hands, Helmet - with broken shield and Mjolnir",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Captain America", "Steve Rogers", "shield", "broken shield", "helmet", "Mjolnir"],
+            "item": "sh0736",
+            "actor": "Chris Evans",
+            "set": 76323,
+            "notes": "This is the same minifigure as the one in set 76260, but with Mjolnir and a different shield.",
             "dates": []
         }
     ]
