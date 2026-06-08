@@ -5463,7 +5463,7 @@
             "actor": "Chris Evans",
             "set": 76260,
             "dates": []
-        }
+        },
         {
             "id": "4cc95728-b697-493d-bd90-fa79d69a6fc7",
             "name": "Captain America - Dark Blue Suit with Reddish Brown Belt and Harness, Reddish Brown Hands, Helmet - with broken shield and Mjolnir",
@@ -5472,6 +5472,14 @@
             "actor": "Chris Evans",
             "set": 76323,
             "notes": "This is the same minifigure as the one in set 76260, but with Mjolnir and a different shield.",
+            "dates": []
+        },
+        {
+            "id": "42c8ede7-6a5d-4184-8567-d10dd2b68c3a",
+            "name": "Captain America - Dark Blue Suit with Reddish Brown Belt, Red Hands, Helmet, Jet Pack",
+            "keywords": ["comics", "Marvel", "Avengers", "Captain America", "Steve Rogers", "helmet", "jet pack", "foil pack"],
+            "item": "sh0818",
+            "set": 242212,
             "dates": []
         }
     ]
