@@ -1975,7 +1975,7 @@
         {
             "id": "85c56e03-8562-4a8c-8a72-758480bcf093",
             "name": "Harry Potter, Sand Blue Jacket, Smiling",
-            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Harry Potter"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "advent calendar", "Harry Potter"],
             "actor": "Daniel Radcliffe",
             "item": "hp316",
             "set": 76390,
@@ -1984,7 +1984,7 @@
         {
             "id": "63b0f1d4-9593-4664-aaea-8af63c1579c1",
             "name": "Dudley Dursley, Striped Pajamas",
-            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Dudley Dursley"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "advent calendar", "Dudley Dursley"],
             "actor": "Harry Melling",
             "item": "hp317",
             "set": 76390,
@@ -1993,7 +1993,7 @@
         {
             "id": "66b717c4-f4eb-4ebe-93ef-3bb3de9c0017",
             "name": "Griphook, Dark Red Suit",
-            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Griphook"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "advent calendar", "Griphook"],
             "actor": "Warwick Davis",
             "item": "hp318",
             "set": 76390,
@@ -2002,7 +2002,7 @@
         {
             "id": "fafddb42-9787-4475-8ecc-9aac59a3ecea",
             "name": "Ron Weasley, Hogwarts Robe",
-            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Ron Weasley", "Ronald Weasley"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "advent calendar", "Ron Weasley", "Ronald Weasley"],
             "actor": "Rupert Grint",
             "item": "hp319",
             "set": 76390,
@@ -2011,7 +2011,7 @@
         {
             "id": "ad810304-2641-49f8-8c54-ff75ad837eeb",
             "name": "Hermione Granger, Hogwarts Robe",
-            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Hermione Granger"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "advent calendar", "Hermione Granger"],
             "actor": "Emma Watson",
             "item": "hp320",
             "set": 76390,
@@ -2020,7 +2020,7 @@
         {
             "id": "c3ca584b-bdd1-4584-9544-fad3c7403f2c",
             "name": "Draco Malfoy, Hogwarts Robe",
-            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Draco Malfoy"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "advent calendar", "Draco Malfoy"],
             "actor": "Tom Felton",
             "item": "hp321",
             "set": 76390,
@@ -2284,7 +2284,7 @@
         {
             "id": "92e1891b-fafd-4f5e-a991-d72e295985ef",
             "name": "Harry Potter, Black and Dark Red Uniform",
-            "keywords": ["Harry Potter", "Goblet of Fire", "Triwizard Tournament", "Hogwarts", "Griffindor", "broom"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "Goblet of Fire", "Triwizard Tournament", "Hogwarts", "Griffindor", "broom"],
             "actor": "Daniel Radcliffe",
             "item": "hp176",
             "set": 75946,
@@ -2293,7 +2293,7 @@
         {
             "id": "c38e9528-7de9-4159-a343-e3477a2b8fa6",
             "name": "Viktor Krum, Reddish Brown Jacket",
-            "keywords": ["Harry Potter", "Goblet of Fire", "Victor Krum", "Triwizard Tournament"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "Goblet of Fire", "Victor Krum", "Triwizard Tournament"],
             "actor": "Stanislav Ianevski",
             "item": "hp177",
             "set": 75946,
@@ -2302,7 +2302,7 @@
         {
             "id": "64a3f38e-d6c6-4c47-a468-d3a935facdf4",
             "name": "Fleur Delacour",
-            "keywords": ["Harry Potter", "Goblet of Fire", "Fleur Delacour", "Triwizard Tournament"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "Goblet of Fire", "Fleur Delacour", "Triwizard Tournament"],
             "actor": "Clémence Poésy",
             "item": "hp178",
             "set": 75946,
@@ -2311,7 +2311,7 @@
         {
             "id": "4e3c9fe3-1689-42f6-8852-9993cdb00c82",
             "name": "Cedric Diggory, Black and Yellow Uniform",
-            "keywords": ["Harry Potter", "Goblet of Fire", "Cedric Diggory", "Triwizard Tournament"],
+            "keywords": ["books", "Wizarding World", "Harry Potter", "Goblet of Fire", "Cedric Diggory", "Triwizard Tournament"],
             "actor": "Robert Pattinson",
             "rpg": [
                 { "campaign": "Tyranny of Dragons", "player": "Mark", "character": "Theodore" },
@@ -3586,7 +3586,7 @@
         {
             "id": "20b49ff0-1be9-481d-b5a4-f7974defe22c",
             "name": "Hermione Granger - Sand Blue Jacket over Bright Pink Hoodie",
-            "keywords": ["movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Hermione", "Hermione Granger", "jacket", "wand", "Griffindor", "Deathly Hallows"],
+            "keywords": ["books", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Hermione", "Hermione Granger", "jacket", "wand", "Griffindor", "Deathly Hallows"],
             "item": "dim046",
             "set": 71348,
             "dates": ["2023-03-31", "2026-04-15"]
@@ -3595,7 +3595,7 @@
             "id": "792daa07-b66a-4070-873e-6a3433c4945d",
             "name": "Newt Scamander, Dark Blue Trench Coat, Dark Tan Vest",
             "keywords": [
-                "movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Fantastic Beasts",
+                "books", "movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Fantastic Beasts",
                 "Fantastic Beasts and Where to Find Them", "Newt Scamander", "wizard", "wand"
             ],
             "item": "dim034",
@@ -5480,6 +5480,15 @@
             "keywords": ["comics", "Marvel", "Avengers", "Captain America", "Steve Rogers", "helmet", "jet pack", "foil pack"],
             "item": "sh0818",
             "set": 242212,
+            "dates": []
+        },
+        {
+            "id": "12956c58-7ab6-4869-aee2-e2d1d02e3c90",
+            "name": "Harry Potter - Gryffindor Robe Open, Black Short Legs, Grin / Scared Head",
+            "keywords": ["books", "Wizarding World", "Harry Potter", "Gryffindor", "wand"],
+            "actor": "Daniel Radcliffe",
+            "item": "hp314",
+            "set": 30724,
             "dates": []
         }
     ]
