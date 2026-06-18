@@ -14,7 +14,7 @@
                 "name": {
                     "type": "string"
                 },
-                "style": {
+                "shape": {
                     "type": "string",
                     "enum": ["minifig", "giant", "item", "character", "microfigure", "nanofigure", "electronic", "minidoll", "dreamling"]
                 },

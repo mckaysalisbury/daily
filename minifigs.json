@@ -80,7 +80,7 @@
             "id": "71f087b8-ad6e-4bbb-a793-7d42319f900f",
             "name": "Mario",
             "keywords": ["video games", "Nintendo", "Super Mario", "Mario", "Mario Mario", "electronic"],
-            "style": "electronic",
+            "shape": "electronic",
             "item": "mar0007",
             "set": 71360,
             "dates": ["2022-11-09"]
@@ -89,7 +89,7 @@
             "id": "55b18cb2-68b1-45a2-aa97-67ec85291eb8",
             "name": "Bowser Jr.",
             "keywords": ["video games", "Nintendo", "Mario", "Bowser", "Bowser Jr."],
-            "style": "character",
+            "shape": "character",
             "item": "mar0003",
             "set": 71360,
             "dates": ["2022-11-16"]
@@ -98,7 +98,7 @@
             "id": "3d9f7a6c-51e2-4a65-b49b-1939b1bc8cec",
             "name": "Goomba - Angry, Dark Bluish Gray Interior Pieces",
             "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "goomba"],
-            "style": "character",
+            "shape": "character",
             "set": 71360,
             "item": "mar0022",
             "dates": ["2022-11-21"],
@@ -108,7 +108,7 @@
             "id": "f3708beb-49d0-42c2-bcf4-791931c86288",
             "name": "Luigi",
             "keywords": ["video games", "Nintendo", "Super Mario", "Luigi", "Luigi Mario", "electronic"],
-            "style": "electronic",
+            "shape": "electronic",
             "item": "mar0062",
             "set": 71387,
             "dates": ["2022-03-10", "2022-11-14"]
@@ -116,7 +116,7 @@
         {
             "id": "9cdae6ca-3516-44ec-9d54-5e4d9dd6f346",
             "name": "Poison Mushroom",
-            "style": "item",
+            "shape": "item",
             "keywords": ["video games", "Nintendo", "Super Mario", "Character Pack Series 2", "mushroom"],
             "item": "mar0060",
             "set": 71386,
@@ -125,7 +125,7 @@
         {
             "id": "2bc363d4-bbee-4b1b-be54-89226f063cfa",
             "name": "Super Mushroom",
-            "style": "item",
+            "shape": "item",
             "keywords": ["video games", "Nintendo", "Super Mario"],
             "set": 30385,
             "part": "66855pb01",
@@ -134,7 +134,7 @@
         {
             "id": "b8fb99a2-07c0-4453-8e55-a8f0ee62a06b",
             "name": "Question Mark Block",
-            "style": "item",
+            "shape": "item",
             "keywords": ["video games", "Nintendo", "Super Mario"],
             "set": 30385,
             "part": "3003pb118",
@@ -143,7 +143,7 @@
         {
             "id": "5f7eb38d-a657-4311-b456-5598d2485e7f",
             "name": "Paragoomba",
-            "style": "character",
+            "shape": "character",
             "keywords": ["video games", "Nintendo", "Super Mario"],
             "item": "mar0025",
             "set": 71361,
@@ -285,7 +285,7 @@
             "id": "a758278a-cbc7-4975-b430-648a0963d479",
             "name": "Unikitty - Biznis Kitty",
             "keywords": ["movies", "The LEGO Movie", "Unikitty"],
-            "style": "character",
+            "shape": "character",
             "actor": "Alison Brie",
             "item": "tlm075",
             "set": 70809,
@@ -355,7 +355,7 @@
         {
             "id": "f466b54d-c106-4382-8756-7b8d0a52891e",
             "name": "Unikitty - Puzzled, Sitting",
-            "style": "character",
+            "shape": "character",
             "keywords": ["movies", "The LEGO Movie", "Unikitty"],
             "actor": "Alison Brie",
             "item": "tlm093",
@@ -390,7 +390,7 @@
             "id": "cf3e8b37-a1d4-43ef-b279-6b720b7149c9",
             "name": "Sweet Mayhem - Crooked Smile, Raised Eyebrow",
             "keywords": ["movies", "The LEGO Movie", "The LEGO Movie 2"],
-            "style": "minidoll",
+            "shape": "minidoll",
             "actor": "Stephanie Beatriz",
             "item": "tlm116",
             "set": 70842,
@@ -400,7 +400,7 @@
             "id": "604af7ac-7dc6-4540-915f-647e5ff50a05",
             "name": "Unikitty - Rampage Kitty",
             "keywords": ["movies", "The LEGO Movie", "Unikitty"],
-            "style": "character",
+            "shape": "character",
             "actor": "Alison Brie",
             "item": "tlm191",
             "set": 70842,
@@ -674,7 +674,7 @@
         {
             "id": "7e61ddb4-5b6c-4f81-a413-9bcfe257e679",
             "name": "D-O with Santa Hat",
-            "style": "item",
+            "shape": "item",
             "keywords": ["Star Wars", "Christmas", "droid"],
             "item": "sw1118",
             "set": 75279,
@@ -692,7 +692,7 @@
             "id": "fcdef04c-4eac-48fe-a360-54c03f12226b",
             "name": "Porg, Star Wars with White Body, Dark Bluish Gray Wings and Tail - Brick Built",
             "keywords": ["movies", "Star Wars", "porg"],
-            "style": "item",
+            "shape": "item",
             "part": "Porg05",
             "set": 75279,
             "dates": ["2021-08-06", "2024-10-09"]
@@ -830,7 +830,7 @@
         {
             "id": "b2822f8d-f0b6-4300-bcf7-b521cf446b34",
             "name": "Astromech Droid, Christmas",
-            "style": "character",
+            "shape": "character",
             "keywords": ["movies", "Star Wars", "droid", "Christmas", "holiday", "Christmas Tree"],
             "item": "sw0598",
             "set": 75056,
@@ -848,7 +848,7 @@
             "id": "ccca13b4-1914-443f-a6f9-27f011d05a7a",
             "name": "Thanos - Dark Blue Arms",
             "keywords": ["Marvel", "Thanos"],
-            "style": "giant",
+            "shape": "giant",
             "item": "sh0230",
             "set": 76049,
             "dates": ["2021-08-12", "2021-10-04", "2024-03-19"]
@@ -1109,7 +1109,7 @@
         {
             "id": "6bd19604-4361-4342-88fb-8a9c376cfb94",
             "name": "Blaze - Cone Stand",
-            "style": "character",
+            "shape": "character",
             "keywords": ["Minecraft", "Blaze", "nether"],
             "item": "min071",
             "set": 21154,
@@ -1118,7 +1118,7 @@
         {
             "id": "246a65ff-7469-4e0b-b774-fbec72dd57c9",
             "name": "Creeper",
-            "style": "character",
+            "shape": "character",
             "keywords": ["Minecraft", "Creeper"],
             "item": "min012",
             "set": 21138,
@@ -1180,7 +1180,7 @@
         {
             "id": "b9137e58-da8c-443f-ace2-dd860ad30047",
             "name": "Groot",
-            "style": "item",
+            "shape": "item",
             "keywords": ["Marvel", "Guardians of the Galaxy", "Groot"],
             "actor": "Vin Diesel",
             "part": "spa0010",
@@ -1248,7 +1248,7 @@
         {
             "id": "e41cc3c3-12e0-484a-baca-b9e8225de870",
             "name": "1-Up Mushroom",
-            "style": "character",
+            "shape": "character",
             "keywords": ["Super Mario", "1-up", "mushroom", "one-up", "extra life"],
             "item": "mar0066",
             "set": 71394,
@@ -1257,7 +1257,7 @@
         {
             "id": "c4e741fd-2a6d-4e26-85b2-a75f33b952e5",
             "name": "Torpedo Ted",
-            "style": "character",
+            "shape": "character",
             "keywords": ["Super Mario", "Torpedo Ted", "Bullet Bill"],
             "item": "mar0073",
             "set": 71394,
@@ -1266,7 +1266,7 @@
         {
             "id": "d4c30f44-a8a1-4c7b-986f-32a797e7f8c6",
             "name": "Boo - Shy",
-            "style": "character",
+            "shape": "character",
             "keywords": ["Super Mario", "Boo", "ghost"],
             "item": "mar0075",
             "set": 71394,
@@ -1595,7 +1595,7 @@
         {
             "id": "171d0bb9-2ddd-4a35-9887-84844a0da9c8",
             "name": "Hulk with Black Hair and Dark Purple Pants",
-            "style": "giant",
+            "shape": "giant",
             "keywords": ["Marvel", "comics", "Hulk", "Bruce Banner"],
             "item": "sh0095",
             "set": 76018,
@@ -1639,7 +1639,7 @@
         {
             "id": "c143680e-530d-4168-9d49-cecacf67c8e2",
             "name": "Hulk with Black Hair and Dark Purple Pants with Avengers Logo",
-            "style": "giant",
+            "shape": "giant",
             "keywords": ["comics", "Marvel", "Hulk", "Bruce Banner"],
             "actor": "Mark Ruffalo",
             "item": "sh0173",
@@ -2199,7 +2199,7 @@
         {
             "id": "a48fa628-b87e-48b4-9907-dd2b8621dcc8",
             "name": "Grogu / The Child / Baby Yoda - Red Christmas Sweater and Scarf",
-            "style": "microfigure",
+            "shape": "microfigure",
             "keywords": ["Star Wars", "advent calendar", "Christmas", "The Child", "Baby Yoda", "Grogu"],
             "item": "sw1173",
             "set": 75037,
@@ -2593,7 +2593,7 @@
         {
             "id": "40638887-ad69-4155-962c-a2dd52f9e215",
             "name": "Ant-Man (Scott Lang) Statuette / Trophy - Upgraded Suit",
-            "style": "nanofigure",
+            "shape": "nanofigure",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Ant-Man", "Scott Lang", "microfig"],
             "actor": "Paul Rudd",
             "item": "90398pb044",
@@ -2647,7 +2647,7 @@
         {
             "id": "69ff5eca-2e32-43e5-86d7-da9c9f9725ef",
             "name": "Thanos - Dark Bluish Gray Armor without Helmet",
-            "style": "giant",
+            "shape": "giant",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Thanos", "Titan", "sword"],
             "actor": "Josh Brolin",
             "item": "sh0733",
@@ -2748,7 +2748,7 @@
         {
             "id": "5661172f-538b-4f2d-9871-f28ceda2da5a",
             "name": "Enderman - Dark Tan and Tan Box",
-            "style": "character",
+            "shape": "character",
             "keywords": ["games", "Minecraft", "enderman", "end stone"],
             "item": "min066",
             "set": 21151,
@@ -2861,7 +2861,7 @@
         {
             "id": "298d7714-cba0-4529-a74d-db3bd4665543",
             "name": "Mechakoopa, Super Mario, Series 4",
-            "style": "item",
+            "shape": "item",
             "keywords": ["video games", "Nintendo", "Super Mario", "koopa", "mechakoopa", "wind-up"],
             "item": "mar0110",
             "set": 71402,
@@ -3836,7 +3836,7 @@
             "id": "8ebabbe8-cdd1-4c83-91be-f5c73bff5054",
             "name": "Yoshi - White Tile, Round 1 x 1 Quarter on Front",
             "keywords": ["video games", "Nintendo", "Mario", "Super Mario World", "Yoshi", "green"],
-            "style": "character",
+            "shape": "character",
             "item": "mar0012",
             "set": 71367,
             "dates": ["2022-11-15"]
@@ -3845,7 +3845,7 @@
             "id": "35a5f93c-8e4b-41f7-857a-20899cf57cb0",
             "name": "Goomba - Surprised",
             "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "goomba"],
-            "style": "character",
+            "shape": "character",
             "set": 71367,
             "item": "mar0024",
             "dates": ["2022-11-18"],
@@ -3855,7 +3855,7 @@
             "id": "7805ce00-f9d0-4fad-b5c1-5099d61ffad0",
             "name": "Professor E. Gadd",
             "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "Luigi", "Luigi's Mansion"],
-            "style": "character",
+            "shape": "character",
             "set": 71397,
             "item": "mar0109",
             "dates": ["2022-11-17"]
@@ -3864,7 +3864,7 @@
             "id": "5ba56feb-23ed-4beb-bc9e-e2162729b4ae",
             "name": "Gold Ghost",
             "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "Luigi", "Luigi's Mansion"],
-            "style": "character",
+            "shape": "character",
             "set": 71397,
             "item": "mar0108",
             "dates": ["2022-11-22"]
@@ -5314,7 +5314,7 @@
         {
             "id": "a88208fc-ea0c-4b3f-9d7d-b10889d5fcd1",
             "name": "Toad - Pit Crew Uniform",
-            "style": "character",
+            "shape": "character",
             "keywords": ["video games", "Nintendo", "Super Mario", "Mario Kart", "Toad", "pit crew", "toadstool"],
             "item": "mar0208",
             "set": 30702,
@@ -5424,7 +5424,7 @@
             "id": "a6f13ad0-8b0c-4bde-a7b0-3e5cb76dd2ea",
             "name": "Anti-Venom - Small",
             "keywords": ["comics", "Marvel", "Spider-Man", "Anti-Venom"],
-            "style": "dreamling",
+            "shape": "dreamling",
             "item": "sh1116",
             "set": 30725,
             "dates": ["2026-06-15"]
