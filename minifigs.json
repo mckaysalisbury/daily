@@ -5491,6 +5491,15 @@
             "item": "hp314",
             "set": 30724,
             "dates": ["2026-06-26"]
+        },
+        {
+            "id": "9fdf677f-9f4c-46a1-bfbb-05fc8337b52f",
+            "name": "Tartan Batman, The LEGO Batman Movie",
+            "keywords": ["comics", "DC", "Batman", "movies", "The LEGO Batman Movie", "Bruce Wayne", "tartan", "kilt", "cape", "sword"],
+            "actor": "Will Arnett",
+            "item": "sh0304",
+            "notes": "This is from Chaos in Gotham City (with book ID b17tlbm01)",
+            "dates": []
         }
     ]
 }
