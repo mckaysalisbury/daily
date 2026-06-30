@@ -3437,7 +3437,7 @@
             "keywords": ["video games", "LEGO Dimensions", "movies", "Mission: Impossible", "Ethan Hunt", "Impossible Misisons Force", "IMF"],
             "item": "dim025",
             "set": 71248,
-            "dates": ["2023-04-18"]
+            "dates": ["2023-04-18", "2026-06-30"]
         },
         {
             "id": "ae003053-e208-4ab9-a051-151a5935890f",
@@ -5507,7 +5507,7 @@
             "keywords": ["Star Wars", "The Mandalorian", "Greef Karga", "magistrate", "robe", "beard"],
             "actor": "Carl Weathers",
             "item": "sw1156",
-            "set": 75311,
+            "notes": "This is from Galactic Book of Fun! (with book id that will likely be b22sw02en?)",
             "dates": []
         }
     ]
