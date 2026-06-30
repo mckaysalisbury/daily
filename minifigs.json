@@ -5500,6 +5500,15 @@
             "item": "sh0304",
             "notes": "This is from Chaos in Gotham City (with book ID b17tlbm01)",
             "dates": []
+        },
+        {
+            "id": "7c02e5bb-6d35-45c0-97a0-7e5f6f4a89e5",
+            "name": "Greef Karga - Black Magistrate Robe, Dark Brown Printed Legs, Gray Beard",
+            "keywords": ["Star Wars", "The Mandalorian", "Greef Karga", "magistrate", "robe", "beard"],
+            "actor": "Carl Weathers",
+            "item": "sw1156",
+            "set": 75311,
+            "dates": []
         }
     ]
 }
