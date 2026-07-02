@@ -5509,6 +5509,22 @@
             "item": "sw1156",
             "notes": "This is from Galactic Book of Fun! (with book id that will likely be b22sw02en?)",
             "dates": []
+        },
+        {
+            "id": "96db86f2-cf81-467c-a693-f9fc3dada551",
+            "name": "Aurora - Dark Pink Top, Metallic Pink Sleeves, Gold Necklace, Dark Pink Cropped Trousers, Reddish Brown Boots, Yellow Hair, Crown Tiara",
+            "keywords": ["movies", "Disney", "Disney Princess", "Sleeping Beauty", "Aurora", "crown", "tiara", "sword"],
+            "item": "dp194",
+            "set": 43240,
+            "dates": []
+        },
+        {
+            "id": "a7bbed22-3e30-4697-a4aa-21993c3701d9",
+            "name": "Prince Phillip",
+            "keywords": ["movies", "Disney", "Disney Princess", "Sleeping Beauty", "Prince Phillip", "sword", "shield"],
+            "item": "dp175",
+            "set": 43240,
+            "dates": []
         }
     ]
 }
