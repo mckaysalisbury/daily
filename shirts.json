@@ -558,13 +558,13 @@
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
             "name": "qep'a' cha'maH SochDIch",
             "text": ["qep'a'", "cha'maH", "SochDIch"],
-            "keywords": ["TV", "Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "pIqaD", "computer", "glasses", "green"],
+            "keywords": ["TV", "Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "pIqaD", "computer", "screen", "glasses", "green"],
             "source": "https://www.kli.org/activities/qepmey/past-qepamey/qepa-chamah-sochdich",
             "images": ["front"],
             "images-name": "cha'maH-SochDIch",
             "dates": [
                 "2021-05-31", "2021-11-01", "2022-04-09", "2022-09-16", "2023-03-02", "2023-07-26", "2024-02-03", "2024-07-23", "2025-01-31", "2025-08-09",
-                "2026-01-28"
+                "2026-01-28", "2026-07-13"
             ]
         },
         {
