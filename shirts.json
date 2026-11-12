@@ -3013,6 +3013,13 @@
             "text": ["VALON"],
             "keywords": ["Valon", "swag", "work"],
             "dates": ["2026-06-02"]
+        },
+        {
+            "id": "918220f7-12a4-492d-91ac-0ce509aa331d",
+            "name": "Captain America Shield - Brush",
+            "keywords": ["Captain America", "shield", "brush", "swipe"],
+            "text": [],
+            "dates": ["2026-09-29"]
         }
     ]
 }
