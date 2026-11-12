@@ -3706,11 +3706,14 @@
         {
             "id": "ec29e112-ed0d-4a2d-afd7-29bcc3fa18ae",
             "name": "Albus Dumbledore, Dark Red Robe, Light Bluish Gray Hair",
-            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Professor Dumbledore", "Albus Dumbledore", "Albus Percival Wulfric Brian Dumbledore", "headmaster", "Hogwarts"],
+            "keywords": [
+                "books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Professor Dumbledore", "Albus Dumbledore",
+                "Albus Percival Wulfric Brian Dumbledore", "headmaster", "Hogwarts"
+            ],
             "actor": "Richard Harris",
             "item": "hp147",
             "set": 75964,
-            "dates": ["2022-12-09"]
+            "dates": ["2022-12-09", "2026-10-01"]
         },
         {
             "id": "cb94f735-8b34-4c67-b784-7e45f3a44140",
